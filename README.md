@@ -166,7 +166,7 @@ No Known Bugs
 
 ## License
 
-Copywrite (c) Jesse Cogswell (JNC Tools)
+Copyright (c) Jesse Cogswell (JNC Tools)
 
 Permission is hereby granted, free of charge, to any person or organization
 obtaining a copy of this software (the "User") and associated documentation files (the "Software"),
