@@ -114,7 +114,7 @@ There are two methods of installation, direct download of the plug-in or through
 
 ### JNC Tools Free Manager
 
-1. Run the **JNC Tools Free Manager** menu command
+1. Run the [**JNC Tools Free Manager**](https://jncogs.github.io/JNC-Tools-Manager-Free/) menu command
 2. Select the **Reset Plug-in Obj Classes** command
 3. Press the **Install / Update** button
 4. Press **Close** to close the dialog box
